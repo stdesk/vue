@@ -23,10 +23,10 @@ Vue.js is an MIT-licensed open source project with its ongoing development made 
 
 Funds donated via Patreon go directly to support Evan You's full-time work on Vue.js. Funds donated via OpenCollective are managed with transparent expenses and will be used for compensating work and expenses for core team members or sponsoring community events. Your name/logo will receive proper recognition and exposure by donating on either platform.
 
-<h3 align="center">Special Sponsors</h3>
+<!--<h3 align="center">Special Sponsors</h3>
 <!--special start-->
 
-<p align="center">
+<!--<p align="center">
   <a href="https://autocode.com/" target="_blank">
     <img width="260px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/autocode.svg?sanitize=true">
   </a>
@@ -34,7 +34,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
   
 <!--special end-->
 
-<h3 align="center">Platinum Sponsors</h3>
+<!--<h3 align="center">Platinum Sponsors</h3>
 
 <!-- <!--platinum start-->
 <!--<table>
@@ -97,7 +97,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 </table>
 <!--special-china end-->
 
-<h3 align="center">Gold Sponsors</h3>
+<!--<h3 align="center">Gold Sponsors</h3>
 
 <!--gold start-->
 <!--<table>
@@ -303,7 +303,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 <a href="https://opencollective.com/vuejs/tiers/gold-sponsors/8/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/8/avatar.svg?sanitize=true" height="60px"></a>
 <a href="https://opencollective.com/vuejs/tiers/gold-sponsors/9/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/9/avatar.svg?sanitize=true" height="60px"></a><a href="https://opencollective.com/vuejs/tiers/gold-sponsors/10/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/10/avatar.svg?sanitize=true" height="60px"></a>
 
----
+--->
 
 ## Introduction
 
