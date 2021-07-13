@@ -36,8 +36,8 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 
 <h3 align="center">Platinum Sponsors</h3>
 
-<!--platinum start-->
-<table>
+<!-- <!--platinum start-->
+<!--<table>
   <tbody>
     <tr>
       <td align="center" valign="middle">
@@ -83,7 +83,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 <!--platinum end-->
 
 <!--special-china start-->
-<h3 align="center">Platinum Sponsors (China)</h3>
+<!--<h3 align="center">Platinum Sponsors (China)</h3>
 <table>
   <tbody>
     <tr>
@@ -100,7 +100,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 <h3 align="center">Gold Sponsors</h3>
 
 <!--gold start-->
-<table>
+<!--<table>
   <tbody>
     <tr>
       <td align="center" valign="middle">
@@ -283,7 +283,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 </table>
 <!--gold end-->
 
-<h3 align="center">Sponsors via <a href="https://opencollective.com/vuejs">Open Collective</a></h3>
+<!--<h3 align="center">Sponsors via <a href="https://opencollective.com/vuejs">Open Collective</a></h3>
 
 <h4 align="center">Platinum</h4>
 
